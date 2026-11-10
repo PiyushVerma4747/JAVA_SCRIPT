@@ -40,7 +40,65 @@
 // console.log(booleanLoggedIn) // true
 // // 0=>false 1=>true ""=>false " "=>true "hekm"=>true 
 
-let someNumber=33
-let stringNumber= String(someNumber)
-console.log(stringNumber) // 33
-console.log(typeof stringNumber) //string
+// let someNumber=33
+// let stringNumber= String(someNumber)
+// console.log(stringNumber) // 33
+// console.log(typeof stringNumber) //string
+
+
+//##################################  OPERATIONS #############################################
+// let value = 3
+// let negValue= - value 
+// console.log(negValue) 
+// console.log("ArithmeticOperation")
+// console.log(2+2)
+// console.log(3-4)
+// console.log(4*3)
+// console.log(2**3)
+// console.log(2/3)
+// console.log(2%3)
+
+// let str1="Hello!"
+// let str2=" Piyush Verma"
+// console.log(str1 + str2) 
+
+// console.log("1"+2) // 12
+// console.log(1+"2") // 12
+// console.log("1"+2+2) // 122
+// console.log(1+2+"2") // 32 To explore more such confusions go to ecma script
+
+// some more tricky conversion
+
+// console.log(+true) // 1
+// console.log(true+) // gives error
+
+// console.log(+"") // 0
+// console.log(Number(" ")) //0
+// console.log(+" ")//0
+
+// let x=3
+// let y=x++
+// console.table([x , y])
+
+// let p=5
+// let q=++p 
+// console.log([p,q])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
